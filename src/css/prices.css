@@ -1,0 +1,7 @@
+.visually-hidden{
+    display: none;
+}
+.price{
+    background-color: var(--backgroundColor);
+    
+}

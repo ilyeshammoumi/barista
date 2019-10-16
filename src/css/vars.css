@@ -4,7 +4,7 @@
   --anotherColor: #A3F4DC;
 
   /*  fonts */
-  --font: 'roboto' ;
+  --font: 'roboto', sans-serif ;
   --fontWeightNormal: normal;
   --fontWeightBold: 500;
   --fontUppercase: uppercase;

@@ -1,10 +1,23 @@
 h1 {
   font-family: var(--font);
-  font-size: 3rem;
+  font-size: 2.6rem;
   margin-bottom: 1rem;
   color: color(var(--textColor) lightness(50%));
   font-variant-caps: small-caps;
   position: relative;
+  font-weight: var(--fontWeightBold);
 
   
+}
+.header {
+  background-color: var(--backgroundColor);
+  padding: var(--margin);
+  display: flex;
+  
+}
+.h2-like{
+  font-size: 1.2rem;
+  text-transform: var(--fontUppercase);
+  font-weight: var(--fontWeightNormal);
+  font-family: var(--font);
 }
