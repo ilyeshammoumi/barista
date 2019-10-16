@@ -1,6 +1,20 @@
 :root {
-  --backgroundColor: #eaeae9;
-  --textColor: #463636;
-  --anotherColor: #bada55;
-  --margin: 2rem;
+  /*  kleuren */
+  --backgroundColor: #F9D2CB;
+  --anotherColor: #A3F4DC;
+
+  /*  fonts */
+  --font: 'roboto' ;
+  --fontWeightNormal: normal;
+  --fontWeightBold: 500;
+  --fontUppercase: uppercase;
+
+  /*  tekst kleuren */
+  --textColor: #212121;
+  --textColorGrey: #9C9C9C;
+  --textColorPink: #F9D2CB;
+
+/*  margins */
+  --margin: 3rem;
+  
 }
